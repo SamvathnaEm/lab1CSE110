@@ -39,11 +39,9 @@ Here’s what I’ve been up to:<br>
 
 ## Skills and Fun Stuff
 - Learning the basics of coding in Java, C++, and Python at San Diego Community College
-- Working on few major project assignments, here they are:
+- Working on few major project assignments, One of them is
   + Card game in Java: 
     * Please feel free to view my project [Github Pages](https://github.com/SamvathnaEm/CSE282Project)
-  + Huffman coding/data compression project in C++: 
-    * Please feel free to view my project [Github Pages](https://github.com/SamvathnaEm/CSE100Project1)
 - During my leisure, I love to:
   + Watch horror movies
   + Playing a bunch of video games
